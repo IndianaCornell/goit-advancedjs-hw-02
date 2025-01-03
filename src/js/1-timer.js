@@ -70,7 +70,7 @@ startBtn.addEventListener('click', () => {
       calendar.disabled = false;
       return;
     }
-  }, 1);
+  }, 1000);
 });
 
 function convertMs(ms) {
