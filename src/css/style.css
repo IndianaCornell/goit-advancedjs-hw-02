@@ -41,3 +41,9 @@ button[data-start] {
   text-transform: uppercase;
   color: #555;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
